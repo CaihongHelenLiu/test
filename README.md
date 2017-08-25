@@ -1,3 +1,3 @@
 # test
 This is a test
-commit,pull commands
+Just want to test commit,pull commands
